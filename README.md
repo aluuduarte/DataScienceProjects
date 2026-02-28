@@ -1,2 +1,2 @@
 # DataScienceProjects
-Descripciones de los proyectos que voy cargando haciendo en la Diplomatura en Ciencia de Datos
+Proyectos que voy cargando y haciendo en la Diplomatura en Ciencia de Datos
